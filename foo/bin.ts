@@ -1,2 +1,2 @@
-import { greet } from "./mod.ts";
-greet();
+import { foobar } from "./mod.ts";
+console.log(foobar());
